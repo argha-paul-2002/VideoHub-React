@@ -46,7 +46,7 @@ const Home = () => {
             letterSpacing={'widest'}
             lineHeight={'190%'}
             p={['4', '16']}
-            textAlign={'center'}
+            textAlign={'justify'}
           >
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo
             tempora deleniti quod, est eos veniam autem asperiores rem, nam
