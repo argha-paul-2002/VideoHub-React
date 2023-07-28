@@ -34,4 +34,4 @@ VideoHub is an open-source project that thrives on community contributions. If y
 
 Discover a world of captivating videos with VideoHub. Experience the magic of visual storytelling at your fingertips!
 
-[🌐 Live Demo](https://your-website.com/videohub-demo)
+[🌐 Live Demo](https://video-hub-argha.netlify.app/)
